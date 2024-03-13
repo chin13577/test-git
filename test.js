@@ -4,4 +4,5 @@ let c = 0;
 let d = 0;
 let e = 0;
 let f = 0;
+let aaa = 0;
 let g = 0;
